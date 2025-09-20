@@ -161,8 +161,3 @@ Coloca este archivo en la carpeta de configuración del cliente y reinicia.
 
 Uso libre con fines educativos. 🚀
 
----
-
-## ✨ Créditos
-
-Repositorio creado en el **Taller de Servidores MCP con Python y FastMCP**.
